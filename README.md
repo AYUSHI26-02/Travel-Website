@@ -49,6 +49,7 @@ This project is a travel website that provides information about various destina
 ![t5](https://github.com/AYUSHI26-02/Travel-Website/assets/173496670/b4f5e89f-2b84-4958-b13d-07d8da18fb16)
 ![t6](https://github.com/AYUSHI26-02/Travel-Website/assets/173496670/2c6bf5a4-3238-4c65-b5d7-93047d5b1779)
 ![t7](https://github.com/AYUSHI26-02/Travel-Website/assets/173496670/22ab9c76-f038-46e0-b618-5418e98e22b5)
+![t8](https://github.com/AYUSHI26-02/Travel-Website/assets/173496670/3665e053-2d3a-483f-8ae7-15b5e76f69cc)
 
 ## Contact
 
